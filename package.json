@@ -1,0 +1,22 @@
+{
+  "name": "tp4__modulos_con_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "startEJ1": "node index.js",
+    "startEJ2": "node index2.js",
+    "startEJ3": "node index3.js",
+    "startEJ4": "node index4.js",
+    "startEJ5": "node index5.js",
+    "startEJ6": "node index6.js",
+    "startEJ7": "node index7.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "country-data": "^0.0.31",
+    "cowsay": "^1.6.0"
+  }
+}
